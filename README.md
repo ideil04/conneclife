@@ -1,6 +1,6 @@
 # Conneclife
 
-Conneclife는 아이딜([@ideil_C](https://x.com/ideil_C))와 울스핀([@wolspin77](https://x.com/wolspin77))이 공동 제작하는 Charadex 기반 ARPG입니다.
+Conneclife는 아이딜([@ideil_C](https://x.com/ideil_C))와 김회전([@wolspin77](https://x.com/wolspin77))이 공동 제작하는 Charadex 기반 ARPG입니다.
 
 # Charadex Navigation
 
