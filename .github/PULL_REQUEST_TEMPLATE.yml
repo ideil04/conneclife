@@ -1,0 +1,19 @@
+- type: input
+  attributes:
+    label: 관련 issue
+    description: 관련된 issue 번호를 적어주세요.
+    placeholder: ex) #1
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    label: 내용 요약
+    description: PR 내용을 요약하여 적어주세요. 
+- type: markdown
+  attributes:
+    label: 변경 사항
+    description: 변경된 점에 대하여 상세하게 적어주세요.
+- type: markdown
+  attributes:
+    label: 참고 자료
+    description: 스크린샷/영상이나 참고 자료를 첨부해주세요.
