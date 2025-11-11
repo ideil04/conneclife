@@ -2,7 +2,7 @@
 name: "[FEAT] 기능"
 about: 기능 추가/삭제/수정을 위한 issue입니다.
 title: "[FEAT]"
-labels: ''
+labels: feature
 assignees: ''
 
 ---

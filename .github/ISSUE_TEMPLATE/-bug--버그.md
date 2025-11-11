@@ -2,7 +2,7 @@
 name: "[BUG] 버그"
 about: bug report를 위한 issue입니다.
 title: "[BUG]"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
