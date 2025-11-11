@@ -15,21 +15,21 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color: #8FB7D4;
+  --cd-primary-color: #5A6D82;
   --cd-primary-text-color: #fff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #939799;
-  --cd-secondary-text-color: #fff;
+  --cd-secondary-color: #3C3F43;
+  --cd-secondary-text-color: #E6E6E6;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color: #f8f8f8;
-  --cd-content-background-color: #ffffff;
-  --cd-faded-background-color: #f8f8f8;
+  --cd-body-background-color: #1E1F21;
+  --cd-content-background-color: #2A2C2F;     
+  --cd-faded-background-color: #252729;
 
   /* Background Extras */
   --cd-body-background-image: url();
@@ -37,24 +37,23 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #303030;
-  --cd-faded-text-color: #575757;
+  --cd-body-text-color: #D9D9D9;
+  --cd-faded-text-color: #9CA3AF;
 
   /* ============================================================= */
   /* Borders
   ================================================================ */
-  --cd-border-color: rgba(0, 0, 0, 0.125);
+  --cd-border-color: rgba(255, 255, 255, 0.1);
   --cd-border-width: 1px;
   --cd-border-style: solid;
-  --cd-border-radius: 1rem;
-
+  --cd-border-radius: 0.8rem;
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color: #222222;
+  --cd-navbar-background-color: #141517;
   --cd-navbar-brand-color: var(--cd-primary-color);
-  --cd-navbar-brand-color-hover: var(--cd-secondary-color);
-  --cd-navbar-text-color: var(--cd-content-background-color);
+  --cd-navbar-brand-color-hover: #74889C;
+  --cd-navbar-text-color: #E6E6E6;
   --cd-navbar-link-color: var(--cd-navbar-text-color);
   --cd-navbar-link-color-hover: var(--cd-primary-color);
   --cd-navbar-font-family: var(--cd-header-font-family);
