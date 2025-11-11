@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Conneclife",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
+  url: "https://ideil04.github.io/conneclife/",
   description: `김회전의 종족 커넥라이 Arpg 사이트입니다.`
 }
 
